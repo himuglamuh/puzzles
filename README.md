@@ -5,4 +5,5 @@ Behold, a collection of cryptographic puzzles designed to challenge and entertai
 # puzzle list
 
 - **[001_captured_soviet_transmission](001_captured_soviet_transmission/README.md)** - Decipher a Soviet transmission intercepted during the Cold War era.
+- **[002_sanitized_logs](002_sanitized_logs/README.md)** - Analyze sanitized logs to recover an encrypted artifact.
 
