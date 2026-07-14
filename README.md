@@ -4,6 +4,7 @@ Behold, a collection of cryptographic puzzles designed to challenge and entertai
 
 # puzzle list
 
+- **[000_cryptmas_2025](https://github.com/himuglamuh/Cryptmas-2025)** - A festive series of introductory/teaching cryptographic challenges to celebrate the holiday season.
 - **[001_captured_soviet_transmission](001_captured_soviet_transmission/README.md)** - Decipher a Soviet transmission intercepted during the Cold War era.
 - **[002_sanitized_logs](002_sanitized_logs/README.md)** - Analyze sanitized logs to recover an encrypted artifact.
 
